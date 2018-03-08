@@ -1,0 +1,2 @@
+开发环境：jdk1.7+tomcat7+eclipse+mysql5.5
+使用技术：spring mvc+hibernate+spring+easyui
